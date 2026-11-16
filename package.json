@@ -3,8 +3,8 @@
   "version": "1.0.0",
   "private": true,
   "engines": {
-  "node": "22.x"
-}
+    "node": "22.x"
+  },
   "description": "DSB Digital Library — secure online eBook store and reader",
   "scripts": {
     "dev": "next dev",
